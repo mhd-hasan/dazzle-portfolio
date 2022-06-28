@@ -1,0 +1,119 @@
+body{
+    background-color: rgb(203, 208, 210);
+}
+
+h1{
+    text-align: center;
+    color: white;
+    background-color: rgb(65, 57, 57);
+    margin-bottom: 0%;
+    width: 100%;
+}
+#tagline{
+    text-align: center;
+    background-color: blanchedalmond;
+    margin-top: 0%;
+}
+h3{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    background-color: rgb(87, 103, 118);
+    color: white;
+    margin-bottom: 0%;
+    margin-right: 41%;
+    padding: 2px;
+    margin-left: 38%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px rgb(158, 138, 138);
+}
+section{
+    display: flex;
+    width: 100%;
+    text-align: justify;
+    
+}
+    
+#exchange{
+    background-color: aquamarine;
+    padding: 3%;
+    height: 295px;
+    width: 255px;
+    border-radius: 10px;
+    margin-left: 1%;
+    box-shadow:5px 8px rgb(124, 135, 124);
+    font-size: 13px;
+    
+}
+#emi{
+    background-color: rgb(153, 211, 163);
+    margin-left: 12%;
+    margin-right:0;
+    margin-top: 0px;
+    padding: 3%;
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    box-shadow:5px 8px rgb(124, 135, 124);
+    font-size: small;
+}
+#waranty{
+    background-color: rgb(162, 162, 114);
+    margin-left: 25%;
+    margin-right:1%;
+    margin-top: 0;
+    padding: 3%;
+    height: 290px;
+    width: 260px;
+    border-radius: 10px;
+    box-shadow:5px 8px rgb(124, 135, 124);
+    font-size: small;
+}
+
+#ex-heading{
+    background-color: rgb(235, 235, 234);
+    font-size: medium;
+    margin-left: 7%;
+    margin-right: 37%;
+    margin-bottom: 0;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 4px rgb(126, 104, 104);
+    
+}
+#emi-heading{
+    background-color: bisque;
+    font-size: 15px;
+    margin-left: 18%;
+    margin-right: 29%;
+    margin-bottom: 0;
+    border-radius: 5px;
+    padding: 1px;
+    box-shadow: 3px 3px 3px 4px rgb(126, 104, 104);
+    }
+
+#waranty-heading{
+    background-color: bisque;
+    font-size: 15px;
+    margin-left: 37%;
+    margin-right: 20%;
+    margin-bottom: 0;
+    border-radius: 5px;
+    padding: 1px;
+    box-shadow: 3px 3px 3px 4px rgb(126, 104, 104);
+    
+}
+
+.half-width{
+    width: 50%;
+}
+
+.bar{
+    list-style-type: none;
+    background-color: beige;
+    margin-right: 90%;
+    padding: 1%;
+    text-decoration:none;
+
+}
